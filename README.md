@@ -1,2 +1,2 @@
 # sample-repo
-Github練習用
+更新
